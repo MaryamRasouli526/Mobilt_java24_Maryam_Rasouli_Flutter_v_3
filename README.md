@@ -50,5 +50,7 @@ Här är hur det ser ut på webb:
 
 ![IMG_0928](https://github.com/user-attachments/assets/e0afb550-4c7e-423e-af5a-5ce4d1cd0a92)
 
+![IMG_0929](https://github.com/user-attachments/assets/2a7a4180-805c-44e6-ab54-5c500b091fbb)
+
 
 
