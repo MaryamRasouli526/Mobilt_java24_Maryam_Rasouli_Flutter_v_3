@@ -48,8 +48,7 @@ Notera:
 
 Här är hur det ser ut på webb:
 
-![IMG_0929](https://github.com/user-attachments/assets/fe2f3c45-7b0b-43e5-9a9b-9433e0ae3d26)
+![IMG_0928](https://github.com/user-attachments/assets/e0afb550-4c7e-423e-af5a-5ce4d1cd0a92)
 
-![IMG_0928](https://github.com/user-attachments/assets/3b4227ae-583b-41f4-84a8-d509ff44d015)
 
 
