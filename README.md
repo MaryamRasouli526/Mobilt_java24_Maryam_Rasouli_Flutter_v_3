@@ -43,7 +43,7 @@ Notera:
    
 6. Tryck på knappen att gåt tillbaka.
 
-![IMG_0926](https://github.com/user-attachments/assets/2ee536d1-53c9-4098-9e01-1760476d527c)
+![IMG_0925](https://github.com/user-attachments/assets/9cb830b1-b973-4728-aa43-35fbd1a150d2)
 
 
 Här är hur det ser ut på webb:
