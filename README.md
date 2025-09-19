@@ -26,15 +26,30 @@ Notera:
 ## Projektets utseende:
 
 1. Skriv något och klicka på "+". Texten kommer visas
-   
-3. Klicka på knappen för att öka räknaren
 
    
-4. Klicka på knappen för nästa sida.
+2. Klicka på knappen för att öka räknaren
 
    
-5. Texten visas här och en bild på tärningar visas.
+3. Klicka på knappen för nästa sida.
+
+![IMG_0925](https://github.com/user-attachments/assets/5daa9026-9fa0-4509-ac02-8d475977cd9a)
+
+
+
+   
+4. Texten visas här och en bild på tärningar visas.
 
    
 6. Tryck på knappen att gåt tillbaka.
+
+![IMG_0926](https://github.com/user-attachments/assets/2ee536d1-53c9-4098-9e01-1760476d527c)
+
+
+Här är hur det ser ut på webb:
+
+![IMG_0929](https://github.com/user-attachments/assets/fe2f3c45-7b0b-43e5-9a9b-9433e0ae3d26)
+
+![IMG_0928](https://github.com/user-attachments/assets/3b4227ae-583b-41f4-84a8-d509ff44d015)
+
 
