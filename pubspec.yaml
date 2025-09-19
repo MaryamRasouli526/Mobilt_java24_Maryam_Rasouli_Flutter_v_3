@@ -1,0 +1,45 @@
+name: flutterv3
+description: A new Flutter project for Uppgift 4.
+
+# Prevents accidental publishing to pub.dev
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # CupertinoIcons för iOS-stil
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1  # Plugin för appikon
+
+flutter:
+  uses-material-design: true
+
+  # Lokala resurser
+  assets:
+    - assets/images/   # Bilder
+    - assets/icon/     # Appikon
+
+# Konfiguration för flutter_launcher_icons
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true  # Tar bort alpha channel för iOS
+  web:
+    generate: true
+    image_path: "assets/icon/CarlosStinky.png"  # Favicon / web icon
+    background_color: "#FFFFFF"
+    theme_color: "#5D3FD3"
+  image_path: "assets/icon/CarlosStinky.png"     # Android / iOS launcher icon
+  min_sdk_android: 21
