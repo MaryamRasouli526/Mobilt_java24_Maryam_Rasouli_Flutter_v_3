@@ -1,7 +1,7 @@
 # FlutterV3
 
 ## Beskrivning
-FlutterV3 är ett Flutter-projekt byggt med Dart och Android Studio. Appen innehåller en räknare, ett textfält för användarinmatning och en andra sida som visar texten samt en webbild. Appen kan köras på mobil och webbläsare.
+FlutterV3 är ett Flutterprojekt byggt med Dart och Android Studio. Appen innehåller en räknare, ett textfält för användarinmatning och en andra sida som visar texten samt en webbild. Appen kan köras på mobil och webbläsare.
 
 ## Installation
 1. Klona repot:  
@@ -41,7 +41,7 @@ Notera:
 4. Texten visas här och en bild på tärningar visas.
 
    
-6. Tryck på knappen att gåt tillbaka.
+6. Tryck på knappen att gå tillbaka.
 
 ![IMG_0925](https://github.com/user-attachments/assets/9cb830b1-b973-4728-aa43-35fbd1a150d2)
 
