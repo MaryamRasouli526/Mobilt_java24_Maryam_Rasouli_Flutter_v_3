@@ -33,7 +33,7 @@ Notera:
    
 3. Klicka på knappen för nästa sida.
 
-![IMG_0925](https://github.com/user-attachments/assets/5daa9026-9fa0-4509-ac02-8d475977cd9a)
+![IMG_0925](https://github.com/user-attachments/assets/4d4dc7e6-dd70-46d9-a837-9a32be420fe5)
 
 
 
