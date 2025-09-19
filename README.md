@@ -17,3 +17,24 @@ FlutterV3 är ett Flutter-projekt byggt med Dart och Android Studio. Appen inneh
 - Bild från webben
 
 Länk till github pages: 
+https://maryamrasouli526.github.io/Mobilt_java24_Maryam_Rasouli_Flutter_v_3/
+
+Notera:
+- docs mappen har lagts till med filer från web mappen för att publicera sidan hos github pages
+- Apk-filen kan du ladda ner under "Release". Den finns på högra sidan av mitt repo.
+
+## Projektets utseende:
+
+1. Skriv något och klicka på "+". Texten kommer visas
+   
+3. Klicka på knappen för att öka räknaren
+
+   
+4. Klicka på knappen för nästa sida.
+
+   
+5. Texten visas här och en bild på tärningar visas.
+
+   
+6. Tryck på knappen att gåt tillbaka.
+
